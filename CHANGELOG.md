@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-09-02)
+## Unreleased (2024-09-07)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`a8b0d58`](https://github.com/stdlib-js/stdlib/commit/a8b0d5839361710233736f54e4b762f9381e8a3c) - **docs:** include `stdbool`, remove backticks in `math/base/assert/is-nonnegative-integerf` [(#2879)](https://github.com/stdlib-js/stdlib/pull/2879) _(by Gunj Joshi)_
 -   [`d125530`](https://github.com/stdlib-js/stdlib/commit/d125530c01e76a5f6f0b093f422e403dbc3a03e2) - **feat:** add `math/base/assert/is-nonnegative-integerf` [(#2851)](https://github.com/stdlib-js/stdlib/pull/2851) _(by Gunj Joshi)_
 
 </details>
