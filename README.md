@@ -219,7 +219,7 @@ int main( void ) {
     float x;
     bool v;
     int i;
-    
+
     for ( i = 0; i < 100; i++ ) {
         x = ( ( (float)rand() / (float)RAND_MAX ) * 100.0f ) - 50.0f;
         v = stdlib_base_is_nonnegative_integerf( x );
@@ -262,11 +262,6 @@ For more information on the project, filing bug reports and feature requests, an
 [![Chat][chat-image]][chat-url]
 
 ---
-
-## License
-
-See [LICENSE][stdlib-license].
-
 
 ## Copyright
 
@@ -313,8 +308,6 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [esm-url]: https://github.com/stdlib-js/math-base-assert-is-nonnegative-integerf/tree/esm
 [esm-readme]: https://github.com/stdlib-js/math-base-assert-is-nonnegative-integerf/blob/esm/README.md
 [branches-url]: https://github.com/stdlib-js/math-base-assert-is-nonnegative-integerf/blob/main/branches.md
-
-[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-base-assert-is-nonnegative-integerf/main/LICENSE
 
 [ieee754]: https://en.wikipedia.org/wiki/IEEE_754-1985
 
