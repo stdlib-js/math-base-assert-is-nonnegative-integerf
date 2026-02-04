@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-assert-is-nonnegative-integerf",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Test if a finite single-precision floating-point number is a nonnegative integer.",
   "license": "Apache-2.0",
   "author": {
@@ -40,7 +40,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/math-base-special-floorf": "^0.2.2",
+    "@stdlib/math-base-special-floorf": "^0.2.3",
     "@stdlib/utils-library-manifest": "^0.2.3"
   },
   "devDependencies": {
@@ -48,7 +48,7 @@
     "@stdlib/boolean-ctor": "^0.2.2",
     "@stdlib/constants-float32-ninf": "^0.2.2",
     "@stdlib/constants-float32-pinf": "^0.2.2",
-    "@stdlib/math-base-special-truncf": "^0.2.2",
+    "@stdlib/math-base-special-truncf": "^0.2.3",
     "@stdlib/random-array-discrete-uniform": "^0.2.1",
     "@stdlib/random-base-randu": "^0.2.2",
     "@stdlib/utils-try-require": "^0.2.2",
